@@ -21,7 +21,7 @@ Portfolio profesional estatico listo para publicar con GitHub Pages.
 
 La web quedara disponible en una URL parecida a:
 
-`https://flafe1638-lgtm.github.io/portfolio/`
+`https://federicoflamini.github.io/portfolio/`
 
 ## Actualizacion de contenido
 
