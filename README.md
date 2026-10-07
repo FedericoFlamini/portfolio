@@ -7,11 +7,12 @@ Portfolio profesional estatico listo para publicar con GitHub Pages.
 - `index.html`: estructura del sitio.
 - `styles.css`: estilos visuales responsive.
 - `script.js`: comportamiento minimo para navegacion suave.
+- `profile.png`: foto profesional usada en el encabezado.
 
 ## Como publicarlo en GitHub Pages
 
 1. Crear un repositorio nuevo en GitHub, por ejemplo `portfolio`.
-2. Subir estos tres archivos a la raiz del repositorio.
+2. Subir estos cuatro archivos a la raiz del repositorio.
 3. Entrar a `Settings > Pages`.
 4. En `Build and deployment`, elegir:
    - Source: `Deploy from a branch`
